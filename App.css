@@ -1,0 +1,49 @@
+body {
+  background-color: #f4f6f8;
+  font-family: Arial;
+}
+
+.container {
+  padding: 20px;
+}
+
+.card {
+  background-color: #f9f9f9;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+.heading {
+  color: #333;
+  border-bottom: 2px solid #52c0ec;
+  padding-bottom: 5px;
+}
+
+.greeting {
+  color: #fa8611;
+}
+
+.table {
+  width: 100%;
+  background-color: #fff;
+  border-collapse: collapse;
+}
+
+.table th {
+  background-color: #6b8ec1;
+  color: white;
+}
+
+.user-card {
+  border: 1px solid #db5e5e;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  background-color: #54afe0;
+}
+
+.product-list li {
+  margin: 5px 0;
+}
